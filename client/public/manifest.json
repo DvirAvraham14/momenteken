@@ -1,0 +1,8 @@
+{
+  "short_name": "Moment Teken App",
+  "name": "Moment Teken home assigment",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
